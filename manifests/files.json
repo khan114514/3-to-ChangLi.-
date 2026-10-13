@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "scope": "All published files except this manifest itself",
+  "files": {
+    ".gitignore": {
+      "sha256": "06b350f0b8b572d16158bc97b4810c62fd077e8e16e988f4194ea09aba6437d0",
+      "bytes": 150
+    },
+    "AGENTS.md": {
+      "sha256": "51790ff9aee15a3cb2046ea05885f62602b55efc99d61ce8a4ddf2ff7384fa9d",
+      "bytes": 1448
+    },
+    "INSTALL.md": {
+      "sha256": "91c71691535a83f49aba9d3236a2630988d5654dc7b5d2c81191ac40098a9163",
+      "bytes": 2598
+    },
+    "README.md": {
+      "sha256": "8d288a351e67d0e9c4018dcf50e88c40045f4cf29bf25442c393f9296e743e0a",
+      "bytes": 2864
+    },
+    "manifests/provenance.json": {
+      "sha256": "6c0cd1c0e16d7099d7747385f85fd66d2a535d865ae1646f0b6cc200e5e7eab2",
+      "bytes": 800
+    },
+    "manifests/validation.json": {
+      "sha256": "4d8e8bc4984b446ce63e4dd00a16564d73869d1320943e65bda4b60227b76cba",
+      "bytes": 706
+    },
+    "requirements/common.md": {
+      "sha256": "9b183220ecf46dc45ffd567379408b223800bb8c2e5b11bdcc554d0cb5f310d7",
+      "bytes": 7519
+    },
+    "requirements/gad-nr.md": {
+      "sha256": "754ee23340fc093bbd8f3ffdf4974f2b002afe9f6f32df2c475de0c0d8fdef38",
+      "bytes": 3143
+    },
+    "requirements/recdcl.md": {
+      "sha256": "4059356099cda693838878099bc885aaaed84064f8e204bf5968945998c5006a",
+      "bytes": 2996
+    },
+    "requirements/softclt.md": {
+      "sha256": "f4b2ec79e8e263c3b64f2b6f76e441a37ec97fca6bb61761153fbadf7d093e17",
+      "bytes": 3470
+    },
+    "skills/autoresearch-manager/SKILL.md": {
+      "sha256": "41faa9a19adaa92ba2802fcdecf9254913198d398e3aeee2db9cbf4351fe7c6e",
+      "bytes": 4591
+    },
+    "skills/autoresearch-manager/agents/openai.yaml": {
+      "sha256": "d17696da169b951d07ff90524c074e9e2c7dfdea182d1aa4f3386fca406a4c0d",
+      "bytes": 325
+    },
+    "skills/autoresearch-manager/assets/qa-release.json": {
+      "sha256": "cdc104ec84631875419a553dff936e38455a4ffd745bd917bfebb54738fdaa4a",
+      "bytes": 5110
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-baseline-quality/SKILL.md": {
+      "sha256": "5d32b3052d6edd2ef00a16caac124438e3ff77ed4338275b65527706914a1043",
+      "bytes": 10717
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-baseline-quality/agents/openai.yaml": {
+      "sha256": "79d7424f5e8da52b31b833d3d62313b7f5b0dc7e4c91fd9dd3a5852770fe286b",
+      "bytes": 271
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-baseline-quality/references/baseline-review-method.md": {
+      "sha256": "15f996157d18b17209d0640bec24e2c39711fbac682ee7eaac830c7a7a8a568c",
+      "bytes": 11267
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/SKILL.md": {
+      "sha256": "8fb227d7e1b4619285f50b2cae49e5fb10daa16bd5bcd40eef5aa25cf1f777a6",
+      "bytes": 12532
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/agents/openai.yaml": {
+      "sha256": "38c7156722ca4c0471b368b8aadc2c7235e0ac326deb3a6045184b859155646f",
+      "bytes": 478
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/docker-path-contract.md": {
+      "sha256": "78f4f6cd5ec2805287afc89193bf485670f3d5c791a44c0a739c289f18e471ed",
+      "bytes": 7464
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/exposure-manifest.md": {
+      "sha256": "7f4bba67d2acd2e7732409d04bce76422c0935987eb8a9f42c9e992641929a69",
+      "bytes": 1717
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/harbor-harness.md": {
+      "sha256": "566bcc6320302e4a9ed8566e1c6eabfcd6f1d4002a5f21dc1dd86c5d1fb391c9",
+      "bytes": 9953
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/implementation-policy.md": {
+      "sha256": "f20ca415f840aa66885222381926a3e44a67bc5e6d63142a203ae330b8b4f24b",
+      "bytes": 8650
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/implementation-report.md": {
+      "sha256": "0c13880bebc635b60e964451f89d9ebe57373b74f408e09839580dd0f2fd04eb",
+      "bytes": 10838
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/precheck-policy.md": {
+      "sha256": "4c84074aa9214f5a6070f038ea1b084d30cd947abac3f4510c1b149432d5550c",
+      "bytes": 314
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/privacy-and-portability.md": {
+      "sha256": "bb5c647182046bbdb8e2573df6e4cfaed7acda5e3b665e4eef39781b241e7f05",
+      "bytes": 5052
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/qa-spec.md": {
+      "sha256": "7a26bce4dde9283b2f3a289659b93f8a7120096059bebc4306d7514609e5475a",
+      "bytes": 12855
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/report-schema.md": {
+      "sha256": "a1fc6c726bbf325a1d65f784e022e8b45c30e8fe7b9d1b3e7301e73f553666d8",
+      "bytes": 2924
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/research-quality.md": {
+      "sha256": "3304e93def3129922fe7544bca7fd6a778aa6df1270aa9259ee1ee6ef71d0724",
+      "bytes": 6962
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/source-alignment.md": {
+      "sha256": "643743eee2bb8579caa2af33ea28ada695082279aae3b3d8da7666b70f6c378a",
+      "bytes": 3841
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/references/submission-format.md": {
+      "sha256": "5677b02d2e6b75ab160200f8751741a4d02b60e9b788289f55f44d0368da3a57",
+      "bytes": 9871
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/aggregate_qa_reports.py": {
+      "sha256": "2827e9bb605f3f14a7a5e660de67e967eb3da9b0c3778c07a5530cc67c2b606d",
+      "bytes": 168
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/audit_collection.py": {
+      "sha256": "ae43dbaecd8969bbcac06e368cd49af0f2da27de8f22606cfe95a1b945e04b7a",
+      "bytes": 18496
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/audit_task.py": {
+      "sha256": "6bfed09c69a0d96edad6c463d333e2002aa47b6d6c8103f9e0c233f1ab7fe8a2",
+      "bytes": 90862
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/content_gates.py": {
+      "sha256": "9cebf512c5cbff17bab2939bb06e2df677af1e65516113c4883ba8da96185b2d",
+      "bytes": 20718
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/docker_paths.py": {
+      "sha256": "e738cfa5091a50369a0c83aa672de65896c4fd4e591245da8a390de0b2481a03",
+      "bytes": 25945
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/harbor_review.py": {
+      "sha256": "b68672f5a082f06cdf23e150732cf1890dd02bdebb4eec74eec4d21eeafeaf7b",
+      "bytes": 25643
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/implementation_review.py": {
+      "sha256": "6ba3517b9de1290f96118a59a51498d5620849026113e694ce2a8f771545dfcf",
+      "bytes": 42925
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/qa_consensus.py": {
+      "sha256": "43c28bd1e293a9cfa4e70f5d54f71f87c23282c15035299d9e1c23e518e55ad5",
+      "bytes": 5361
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/submission_format.py": {
+      "sha256": "6813b9afbb33b0e07d15a365515be3566e7dfd7fcaaf64cdc17f49dcbe65377d",
+      "bytes": 43572
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_audit_collection.py": {
+      "sha256": "e069469cb33c47eb1a0183dbfeb506f894a4dea6c4a0208d839eebbd2aa71cf6",
+      "bytes": 8248
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_audit_task.py": {
+      "sha256": "ff29243a232b450d0991f369dbfec0c787eefc17fb267cc80a68db02d722b43d",
+      "bytes": 7854
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_content_gates.py": {
+      "sha256": "95ca6a2a34fc97a1d64a2a63f534d1ec2ea429edcc9f9b2acd0787279b8ae52b",
+      "bytes": 7191
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_docker_paths.py": {
+      "sha256": "df58fa1a1c718431a5b09e36042098c5d3e7d1c050edb224863ecb371245fa03",
+      "bytes": 16373
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_harbor_review.py": {
+      "sha256": "78561f1b0b0f40f6ce871d71265107a56da070735b4cc8a2e4898b25da82d0bc",
+      "bytes": 19256
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_implementation_review.py": {
+      "sha256": "880b07ffd423f081f94214a7c1d91c4ab297d4d17ace7dd44a193b79e7b2ca4d",
+      "bytes": 33265
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_qa_consensus.py": {
+      "sha256": "71727d299a696a1a4d775f54b8f4dd25aefa0bf28e5a1caf9466c03fefab1d31",
+      "bytes": 3219
+    },
+    "skills/autoresearch-manager/assets/qa-skills/autoresearch-task-qa/scripts/test_submission_format.py": {
+      "sha256": "dac90632ade757dced090b4ee1e8bf304a2160e142a5af908c3e393a891e9c9a",
+      "bytes": 21458
+    },
+    "skills/autoresearch-manager/references/runtime-contract.md": {
+      "sha256": "b87fe32adec35f77f7797148375af31139259205e197f295ac79a96d66b34df8",
+      "bytes": 5489
+    },
+    "skills/autoresearch-manager/scripts/agent_stage.py": {
+      "sha256": "0b61fb5a350d2f49472e9ac024d07b8712fbe96f0daa9f9d787c29c3e4913a97",
+      "bytes": 3634
+    },
+    "skills/autoresearch-manager/scripts/common.py": {
+      "sha256": "58d9cce24b30d5e8a540ace1fb8c3de4198681a2c199513009ac75441139d837",
+      "bytes": 3404
+    },
+    "skills/autoresearch-manager/scripts/fixture_driver.py": {
+      "sha256": "ea6fd3a36b9ecc4692e9ece0549b8b38c122583eee8c077984098243991f4a44",
+      "bytes": 4207
+    },
+    "skills/autoresearch-manager/scripts/job_worker.py": {
+      "sha256": "8f62f6d111d8300cf7b4d5ac3d135d248722756b54cc673891c2afa2415a80d6",
+      "bytes": 2219
+    },
+    "skills/autoresearch-manager/scripts/manager.py": {
+      "sha256": "dd08489cd2b21e91c99f7f38eef2322349255fe05f79dbd093bb7299bbbac9c1",
+      "bytes": 27277
+    },
+    "skills/autoresearch-manager/scripts/qa_container.py": {
+      "sha256": "16ebde21bf7410a0e0560d1644fe0a070bf92a57fcbd090fadf0c0b404c6c895",
+      "bytes": 5094
+    },
+    "skills/autoresearch-manager/scripts/qa_entry.py": {
+      "sha256": "bef00761075600ebb021179113e0ed2e3d527f0fc9c896e562c84a5526882f9a",
+      "bytes": 3398
+    },
+    "skills/autoresearch-manager/scripts/stability_worker.py": {
+      "sha256": "53b0ec17ab50574c693def890dad45bef2d641ff55be90c030892a82c6d75fe8",
+      "bytes": 2841
+    },
+    "skills/autoresearch-manager/scripts/test_manager.py": {
+      "sha256": "5ab63fbe18e20b66c65968970699bc8c8261955f4f1233b34daa9c69c1e32a7b",
+      "bytes": 12663
+    },
+    "skills/autoresearch-manager/scripts/test_qa_docker.py": {
+      "sha256": "c94819e49b202301aba8348e4b52215c73fdd0a1278e7d423f97d451dd4807b3",
+      "bytes": 7576
+    },
+    "tools/verify_handoff.py": {
+      "sha256": "0e0820135ada5abee7d9063e3df69136bbe481c61cff6f005b18ac7e672795f1",
+      "bytes": 1739
+    }
+  }
+}

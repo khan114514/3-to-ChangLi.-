@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+._*
+.venv/
+venv/
+.env
+.env.*
+private/
+runtime/
+manager-runs/
+datasets/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
